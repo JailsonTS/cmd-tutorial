@@ -1,3 +1,6 @@
 teste cmd atualizações
 
 teste 2 para atualizar o clone
+
+
+teste 3 para mesclar com a master/main
